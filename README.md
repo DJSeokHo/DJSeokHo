@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJSeokHo
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning kotlin, spring, swift
+- 🌱 I’m currently learning kotlin, python, swift
 - 💞️ I’m looking to collaborate on android and iOS native freelancer
 - 📫 How to reach me: djseokho@gmail.com, djseokho@naver.com, djseokho@vip.qq.com
 
