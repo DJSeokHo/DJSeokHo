@@ -1,19 +1,19 @@
 Hello everyone, you can learn how to build android and iOS native app in my channel. 
 Also can get the source code of every example.
 
-[Youtube channel]
+Youtube channel
 https://www.youtube.com/channel/UC1bhI9CgWPOyVXu-5NUwkIQ
 
-[Facebook]
+Facebook
 https://www.facebook.com/DJSeokho/
 
-[Instagram]
+Instagram
 https://www.instagram.com/coding_with_cat/
 
-[Email]
+Email
 djseokho@gmail.com
 
-[Facebook group]
+Facebook group
 https://www.facebook.com/groups/462724811455706/?ref=share
 
 For App Development / Business Inquires 
